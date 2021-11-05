@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-transform: capitalize;
+}
+p {
+  font-size: 15px;
+  font-style: italic;
+  width: fit-content;
+  font-weight: 500;
+}
+#home {
+  color: black;
+}
